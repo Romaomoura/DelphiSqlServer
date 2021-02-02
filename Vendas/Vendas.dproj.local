@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2021/02/01 20:15:31.460,=C:\Users\crmou\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/02/01 20:17:17.245,C:\Users\crmou\OneDrive\Área de Trabalho\Projetos-Delphi\DelphiSqlServer\Vendas\uPrincipal.pas=C:\Users\crmou\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/02/01 20:17:17.245,C:\Users\crmou\OneDrive\Área de Trabalho\Projetos-Delphi\DelphiSqlServer\Vendas\uPrincipal.dfm=C:\Users\crmou\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/02/01 20:17:26.902,C:\Users\crmou\OneDrive\Área de Trabalho\Projetos-Delphi\DelphiSqlServer\Vendas\Vendas.dproj=C:\Users\crmou\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/02/01 20:30:06.833,=C:\Users\crmou\OneDrive\Área de Trabalho\Projetos-Delphi\DelphiSqlServer\Vendas\Unit1.pas</Transaction>
+    <Transaction>2021/02/01 20:32:55.855,C:\Users\crmou\OneDrive\Área de Trabalho\Projetos-Delphi\DelphiSqlServer\Vendas\datamodule\uDM.dfm=C:\Users\crmou\OneDrive\Área de Trabalho\Projetos-Delphi\DelphiSqlServer\Vendas\Unit1.dfm</Transaction>
+    <Transaction>2021/02/01 20:32:55.855,C:\Users\crmou\OneDrive\Área de Trabalho\Projetos-Delphi\DelphiSqlServer\Vendas\datamodule\uDM.pas=C:\Users\crmou\OneDrive\Área de Trabalho\Projetos-Delphi\DelphiSqlServer\Vendas\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
