@@ -13,6 +13,7 @@ object frmPrincipal: TfrmPrincipal
   Menu = mainPrincipal
   OldCreateOrder = False
   WindowState = wsMaximized
+  OnClose = FormClose
   OnCreate = FormCreate
   PixelsPerInch = 96
   TextHeight = 13
@@ -28,6 +29,7 @@ object frmPrincipal: TfrmPrincipal
       end
       object Categoria1: TMenuItem
         Caption = 'Categoria'
+        OnClick = Categoria1Click
       end
       object N2: TMenuItem
         Caption = 'Produto'

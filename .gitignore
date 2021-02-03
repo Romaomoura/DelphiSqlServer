@@ -1,0 +1,12 @@
+*.exe
+*.dcu
+*.identcache
+*.log
+*.pas.~*
+*.dfm.~*
+
+Vendas/__history/*
+Vendas/Vendas.identcache
+Vendas/Vendas.stat
+**/__history/*
+**/__recovery/*

@@ -1,5 +1,0 @@
-object dtmConn: TdtmConn
-  OldCreateOrder = False
-  Height = 201
-  Width = 439
-end

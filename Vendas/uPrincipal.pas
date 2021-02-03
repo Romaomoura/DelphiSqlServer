@@ -4,7 +4,7 @@ interface
 
 uses
   Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
-  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.Menus,uDM;
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.Menus, uDTMPrincipal;
 
 type
   TfrmPrincipal = class(TForm)
@@ -26,6 +26,8 @@ type
     VendaporData1: TMenuItem;
     procedure menuSairClick(Sender: TObject);
     procedure FormCreate(Sender: TObject);
+    procedure Categoria1Click(Sender: TObject);
+    procedure FormClose(Sender: TObject; var Action: TCloseAction);
   private
     { Private declarations }
   public
@@ -38,6 +40,20 @@ var
 implementation
 
 {$R *.dfm}
+
+uses uCadCategoria;
+
+procedure TfrmPrincipal.Categoria1Click(Sender: TObject);
+begin
+  frmCadCategoria := TfrmCadCategoria.Create(Self);
+  frmCadCategoria.ShowModal;
+  frmCadCategoria.Release;
+end;
+
+procedure TfrmPrincipal.FormClose(Sender: TObject; var Action: TCloseAction);
+begin
+  FreeAndNil(dtmConnPrincipal);
+end;
 
 procedure TfrmPrincipal.FormCreate(Sender: TObject);
 begin
@@ -53,8 +69,8 @@ begin
   dtmConn.Conn.Database := 'dbVendas';
   dtmConn.Conn.Connected := true;
 }
-  dtmConn := TdtmConn.Create(Self);
-  with dtmConn.Conn do
+  dtmConnPrincipal := TdtmConnPrincipal.Create(Self);
+  with dtmConnPrincipal.Conn do
     begin
       SQLHourGlass := True;
       Protocol := 'mssql';
