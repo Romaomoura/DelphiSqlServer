@@ -2,19 +2,21 @@
 <BorlandProject>
 	<Transactions>
     <Transaction>2021/02/01 20:15:31.000.460,=C:\Users\crmou\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2021/02/01 20:17:17.000.245,C:\Users\crmou\OneDrive\Área de Trabalho\Projetos-Delphi\DelphiSqlServer\Vendas\uPrincipal.dfm=C:\Users\crmou\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
-    <Transaction>2021/02/01 20:17:17.000.245,C:\Users\crmou\OneDrive\Área de Trabalho\Projetos-Delphi\DelphiSqlServer\Vendas\uPrincipal.pas=C:\Users\crmou\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2021/02/01 20:17:26.000.902,C:\Users\crmou\OneDrive\Área de Trabalho\Projetos-Delphi\DelphiSqlServer\Vendas\Vendas.dproj=C:\Users\crmou\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/02/01 20:17:17.000.245,C:\Users\crmou\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\crmou\OneDrive\Área de Trabalho\Projetos-Delphi\DelphiSqlServer\Vendas\uPrincipal.dfm</Transaction>
+    <Transaction>2021/02/01 20:17:17.000.245,C:\Users\crmou\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\crmou\OneDrive\Área de Trabalho\Projetos-Delphi\DelphiSqlServer\Vendas\uPrincipal.pas</Transaction>
+    <Transaction>2021/02/01 20:17:26.000.902,C:\Users\crmou\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\crmou\OneDrive\Área de Trabalho\Projetos-Delphi\DelphiSqlServer\Vendas\Vendas.dproj</Transaction>
     <Transaction>2021/02/01 20:30:06.000.833,=C:\Users\crmou\OneDrive\Área de Trabalho\Projetos-Delphi\DelphiSqlServer\Vendas\Unit1.pas</Transaction>
-    <Transaction>2021/02/01 20:32:55.000.855,C:\Users\crmou\OneDrive\Área de Trabalho\Projetos-Delphi\DelphiSqlServer\Vendas\datamodule\uDM.pas=C:\Users\crmou\OneDrive\Área de Trabalho\Projetos-Delphi\DelphiSqlServer\Vendas\Unit1.pas</Transaction>
-    <Transaction>2021/02/01 20:32:55.000.855,C:\Users\crmou\OneDrive\Área de Trabalho\Projetos-Delphi\DelphiSqlServer\Vendas\datamodule\uDM.dfm=C:\Users\crmou\OneDrive\Área de Trabalho\Projetos-Delphi\DelphiSqlServer\Vendas\Unit1.dfm</Transaction>
+    <Transaction>2021/02/01 20:32:55.000.855,C:\Users\crmou\OneDrive\Área de Trabalho\Projetos-Delphi\DelphiSqlServer\Vendas\Unit1.dfm=C:\Users\crmou\OneDrive\Área de Trabalho\Projetos-Delphi\DelphiSqlServer\Vendas\datamodule\uDM.dfm</Transaction>
+    <Transaction>2021/02/01 20:32:55.000.855,C:\Users\crmou\OneDrive\Área de Trabalho\Projetos-Delphi\DelphiSqlServer\Vendas\Unit1.pas=C:\Users\crmou\OneDrive\Área de Trabalho\Projetos-Delphi\DelphiSqlServer\Vendas\datamodule\uDM.pas</Transaction>
     <Transaction>2021/02/03 18:52:44.000.049,=C:\Users\crmou\OneDrive\Área de Trabalho\Projetos-Delphi\DelphiSqlServer\Vendas\Unit1.pas</Transaction>
-    <Transaction>2021/02/03 18:53:28.000.306,C:\Users\crmou\OneDrive\Área de Trabalho\Projetos-Delphi\DelphiSqlServer\Vendas\Unit1.pas=C:\Users\crmou\OneDrive\Área de Trabalho\Projetos-Delphi\DelphiSqlServer\Vendas\heranca\uTelaHeranca.pas</Transaction>
-    <Transaction>2021/02/03 18:53:28.000.306,C:\Users\crmou\OneDrive\Área de Trabalho\Projetos-Delphi\DelphiSqlServer\Vendas\Unit1.dfm=C:\Users\crmou\OneDrive\Área de Trabalho\Projetos-Delphi\DelphiSqlServer\Vendas\heranca\uTelaHeranca.dfm</Transaction>
-    <Transaction>2021/02/03 19:46:06.456,C:\Users\crmou\OneDrive\Área de Trabalho\Projetos-Delphi\DelphiSqlServer\Vendas\datamodule\uDTMPrincipal.dfm=C:\Users\crmou\OneDrive\Área de Trabalho\Projetos-Delphi\DelphiSqlServer\Vendas\datamodule\uDM.dfm</Transaction>
-    <Transaction>2021/02/03 19:46:06.456,C:\Users\crmou\OneDrive\Área de Trabalho\Projetos-Delphi\DelphiSqlServer\Vendas\datamodule\uDTMPrincipal.pas=C:\Users\crmou\OneDrive\Área de Trabalho\Projetos-Delphi\DelphiSqlServer\Vendas\datamodule\uDM.pas</Transaction>
-    <Transaction>2021/02/03 19:57:20.517,=C:\Users\crmou\OneDrive\Área de Trabalho\Projetos-Delphi\DelphiSqlServer\Vendas\Unit1.pas</Transaction>
-    <Transaction>2021/02/03 19:58:46.086,C:\Users\crmou\OneDrive\Área de Trabalho\Projetos-Delphi\DelphiSqlServer\Vendas\cadastro\uCadCategoria.pas=C:\Users\crmou\OneDrive\Área de Trabalho\Projetos-Delphi\DelphiSqlServer\Vendas\Unit1.pas</Transaction>
-    <Transaction>2021/02/03 19:58:46.086,C:\Users\crmou\OneDrive\Área de Trabalho\Projetos-Delphi\DelphiSqlServer\Vendas\cadastro\uCadCategoria.dfm=C:\Users\crmou\OneDrive\Área de Trabalho\Projetos-Delphi\DelphiSqlServer\Vendas\Unit1.dfm</Transaction>
+    <Transaction>2021/02/03 18:53:28.000.306,C:\Users\crmou\OneDrive\Área de Trabalho\Projetos-Delphi\DelphiSqlServer\Vendas\heranca\uTelaHeranca.dfm=C:\Users\crmou\OneDrive\Área de Trabalho\Projetos-Delphi\DelphiSqlServer\Vendas\Unit1.dfm</Transaction>
+    <Transaction>2021/02/03 18:53:28.000.306,C:\Users\crmou\OneDrive\Área de Trabalho\Projetos-Delphi\DelphiSqlServer\Vendas\heranca\uTelaHeranca.pas=C:\Users\crmou\OneDrive\Área de Trabalho\Projetos-Delphi\DelphiSqlServer\Vendas\Unit1.pas</Transaction>
+    <Transaction>2021/02/03 19:46:06.000.456,C:\Users\crmou\OneDrive\Área de Trabalho\Projetos-Delphi\DelphiSqlServer\Vendas\datamodule\uDM.pas=C:\Users\crmou\OneDrive\Área de Trabalho\Projetos-Delphi\DelphiSqlServer\Vendas\datamodule\uDTMPrincipal.pas</Transaction>
+    <Transaction>2021/02/03 19:46:06.000.456,C:\Users\crmou\OneDrive\Área de Trabalho\Projetos-Delphi\DelphiSqlServer\Vendas\datamodule\uDM.dfm=C:\Users\crmou\OneDrive\Área de Trabalho\Projetos-Delphi\DelphiSqlServer\Vendas\datamodule\uDTMPrincipal.dfm</Transaction>
+    <Transaction>2021/02/03 19:57:20.000.517,=C:\Users\crmou\OneDrive\Área de Trabalho\Projetos-Delphi\DelphiSqlServer\Vendas\Unit1.pas</Transaction>
+    <Transaction>2021/02/03 19:58:46.000.086,C:\Users\crmou\OneDrive\Área de Trabalho\Projetos-Delphi\DelphiSqlServer\Vendas\Unit1.pas=C:\Users\crmou\OneDrive\Área de Trabalho\Projetos-Delphi\DelphiSqlServer\Vendas\cadastro\uCadCategoria.pas</Transaction>
+    <Transaction>2021/02/03 19:58:46.000.086,C:\Users\crmou\OneDrive\Área de Trabalho\Projetos-Delphi\DelphiSqlServer\Vendas\Unit1.dfm=C:\Users\crmou\OneDrive\Área de Trabalho\Projetos-Delphi\DelphiSqlServer\Vendas\cadastro\uCadCategoria.dfm</Transaction>
+    <Transaction>2021/02/04 18:15:01.000.463,=C:\Users\crmou\OneDrive\Área de Trabalho\Projetos-Delphi\DelphiSqlServer\Vendas\Unit1.pas</Transaction>
+    <Transaction>2021/02/04 18:15:27.000.498,C:\Users\crmou\OneDrive\Área de Trabalho\Projetos-Delphi\DelphiSqlServer\Vendas\heranca\uEnum.pas=C:\Users\crmou\OneDrive\Área de Trabalho\Projetos-Delphi\DelphiSqlServer\Vendas\Unit1.pas</Transaction>
   </Transactions>
 </BorlandProject>

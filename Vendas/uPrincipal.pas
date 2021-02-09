@@ -74,7 +74,7 @@ begin
     begin
       SQLHourGlass := True;
       Protocol := 'mssql';
-      LibraryLocation := 'C:\Users\crmou\OneDrive\Área de Trabalho\Projetos-Delphi\DelphiSqlServer\Vendas\ntwdblib.dll';
+      LibraryLocation := 'C:\Windows\SysWOW64\ntwdblib.dll\ntwdblib.dll';
       HostName := 'DESKTOP-O2FSG9O';
       Port := 1433;
       User := '';
